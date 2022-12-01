@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\AverageWordLengthProblem1\AverageWordLengthProblem1\bin\Debug\netcoreapp3.1\AverageWordLengthProblem1.exe
+C:\Users\USER\source\repos\AverageWordLengthProblem1\AverageWordLengthProblem1\bin\Debug\netcoreapp3.1\AverageWordLengthProblem1.deps.json
+C:\Users\USER\source\repos\AverageWordLengthProblem1\AverageWordLengthProblem1\bin\Debug\netcoreapp3.1\AverageWordLengthProblem1.runtimeconfig.json
+C:\Users\USER\source\repos\AverageWordLengthProblem1\AverageWordLengthProblem1\bin\Debug\netcoreapp3.1\AverageWordLengthProblem1.runtimeconfig.dev.json
+C:\Users\USER\source\repos\AverageWordLengthProblem1\AverageWordLengthProblem1\bin\Debug\netcoreapp3.1\AverageWordLengthProblem1.dll
+C:\Users\USER\source\repos\AverageWordLengthProblem1\AverageWordLengthProblem1\bin\Debug\netcoreapp3.1\AverageWordLengthProblem1.pdb
+C:\Users\USER\source\repos\AverageWordLengthProblem1\AverageWordLengthProblem1\obj\Debug\netcoreapp3.1\AverageWordLengthProblem1.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\AverageWordLengthProblem1\AverageWordLengthProblem1\obj\Debug\netcoreapp3.1\AverageWordLengthProblem1.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\AverageWordLengthProblem1\AverageWordLengthProblem1\obj\Debug\netcoreapp3.1\AverageWordLengthProblem1.AssemblyInfo.cs
+C:\Users\USER\source\repos\AverageWordLengthProblem1\AverageWordLengthProblem1\obj\Debug\netcoreapp3.1\AverageWordLengthProblem1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\AverageWordLengthProblem1\AverageWordLengthProblem1\obj\Debug\netcoreapp3.1\AverageWordLengthProblem1.dll
+C:\Users\USER\source\repos\AverageWordLengthProblem1\AverageWordLengthProblem1\obj\Debug\netcoreapp3.1\AverageWordLengthProblem1.pdb
+C:\Users\USER\source\repos\AverageWordLengthProblem1\AverageWordLengthProblem1\obj\Debug\netcoreapp3.1\AverageWordLengthProblem1.genruntimeconfig.cache
